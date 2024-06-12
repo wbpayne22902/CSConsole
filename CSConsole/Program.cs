@@ -4,6 +4,6 @@ Console.WriteLine($"Hello, World! {a}");
 Console.WriteLine("This is a demonstration program!");
 for (int x = 1; x <= 15; x++)
 {
-    Console.WriteLine($"Hi {x}");
+    Console.WriteLine($"Hello {x}");
 }
 Console.ResetColor();
