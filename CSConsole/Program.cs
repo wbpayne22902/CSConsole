@@ -1,4 +1,4 @@
-﻿int a = 2;
+﻿const int a = 2;
 Console.WriteLine($"Hello, World! {a}");
 Console.WriteLine("This is a demonstration program!");
 
